@@ -29,17 +29,4 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/></code>
 
 
----
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=EmilyCarla&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyCarla&theme=dark&hide_border=false&layout=compact" alt="Top Langs"/>
-    </td>
-  </tr>
-</table>
